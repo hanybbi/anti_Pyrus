@@ -1,0 +1,11 @@
+{
+    "detection time" : "2022-12-07",
+    "field" : "virus",
+    "file" : "malware1",
+    "file path" : "C:\\users\\Admin\\Desktop\\virus_project\\test",
+    "hostname" : "antipyrus",
+    "ip" : "127.0.0.1",
+    "pc" : "desktop",
+    "username" : "admin",
+    "virus detection" : "malware"
+}
